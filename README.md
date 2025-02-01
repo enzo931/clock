@@ -1,5 +1,5 @@
 <h1>Relógio Digital em Tempo Real</h1>
-Este projeto é um relógio digital desenvolvido com HTML, CSS e JavaScript. Ele exibe a hora atual (em formato 24 horas) e a data (dia, mês e ano) em tempo real. A cada segundo, o relógio é atualizado automaticamente.
+Este projeto é um relógio digital desenvolvido com HTML, CSS e JavaScript. Ele exibe a hora atual (em formato 24 horas) e a data (dia, mês e ano) em tempo real. A cada segundo, o relógio é atualizado automaticamente.<br>
 Funcionalidades <br>
     Exibe a hora em formato HH:MM:SS com atualização a cada segundo.<br>
     Mostra a data no formato DD/MM/AAAA.<br>
