@@ -1,0 +1,37 @@
+        /* Estilo geral do corpo */
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            color: white;
+            flex-direction: column;
+        }
+
+        /* Estilo do relógio */
+        .clock {
+            font-size: 6rem;
+            font-weight: bold;
+            background-color: #222;
+            padding: 20px 40px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Estilo para o título (data) */
+        .date {
+            font-size: 1.5rem;
+            margin-top: 10px;
+            color: #ddd;
+        }
+
+        /* Estilo do contêiner de fundo */
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
